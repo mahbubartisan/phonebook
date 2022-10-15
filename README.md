@@ -31,7 +31,7 @@ Phonebook/contact webapp (like Android Contact Book). <b> This application has s
  
  • <b>A proper validation rules</b> has been appiled to validate the user input.
 
- • <b>Object–Relational Mapping(ORM)</b> to define relationships.
+ • <b>Object–Relational Mapping(ORM)</b> has been used to define relationships.
  
  
  <b> Development Stacks: </b>
